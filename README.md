@@ -1,2 +1,2 @@
 # ChatApp
-A chatting application for Android
+A chatting application for Android(Unfinished)
